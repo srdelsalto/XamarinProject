@@ -1,0 +1,13 @@
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\bin\Debug\netstandard2.0\DataBinding1.deps.json
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\bin\Debug\netstandard2.0\DataBinding1.dll
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\bin\Debug\netstandard2.0\ref\DataBinding1.dll
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\bin\Debug\netstandard2.0\DataBinding1.pdb
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\DataBinding1.csprojAssemblyReference.cache
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\DataBinding1.AssemblyInfoInputs.cache
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\DataBinding1.AssemblyInfo.cs
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\DataBinding1.dll
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\ref\DataBinding1.dll
+C:\Xamarin Curse\DataBinding1\DataBinding1\DataBinding1\DataBinding1\obj\Debug\netstandard2.0\DataBinding1.pdb

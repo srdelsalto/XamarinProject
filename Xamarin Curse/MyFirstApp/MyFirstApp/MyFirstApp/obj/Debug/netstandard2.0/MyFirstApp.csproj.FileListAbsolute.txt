@@ -1,0 +1,39 @@
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.deps.json
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.dll
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.dll
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Users\Windows 10\Desktop\7mo Semestre\Programación Avanzada\Advanced-Programming-2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.deps.json
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.dll
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.dll
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Users\Windows 10\Desktop\7mo Semestre\Programacion Avanzada\Advanced_Programming_2820\Partial 3\Project\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.csprojAssemblyReference.cache
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfo.cs
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.dll
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.deps.json
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.dll
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Xamarin Curse\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\XamlC.stamp
