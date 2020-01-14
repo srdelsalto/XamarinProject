@@ -1,0 +1,14 @@
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\bin\Debug\netstandard2.0\NavegacionDemo.deps.json
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\bin\Debug\netstandard2.0\NavegacionDemo.dll
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\bin\Debug\netstandard2.0\ref\NavegacionDemo.dll
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\bin\Debug\netstandard2.0\NavegacionDemo.pdb
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.csprojAssemblyReference.cache
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.AssemblyInfoInputs.cache
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.AssemblyInfo.cs
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.dll
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\ref\NavegacionDemo.dll
+C:\Xamarin Curse\NavegacionDemo\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.pdb

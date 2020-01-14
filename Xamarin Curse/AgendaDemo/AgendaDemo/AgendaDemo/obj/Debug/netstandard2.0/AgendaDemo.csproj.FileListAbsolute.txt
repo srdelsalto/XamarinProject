@@ -1,0 +1,15 @@
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\bin\Debug\netstandard2.0\AgendaDemo.deps.json
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\bin\Debug\netstandard2.0\AgendaDemo.dll
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\bin\Debug\netstandard2.0\ref\AgendaDemo.dll
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\bin\Debug\netstandard2.0\AgendaDemo.pdb
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.csprojAssemblyReference.cache
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\Interfaces\PaginaContacto.xaml.g.cs
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.AssemblyInfoInputs.cache
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.AssemblyInfo.cs
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.dll
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\ref\AgendaDemo.dll
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.pdb
+C:\Xamarin Curse\AgendaDemo\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\Interfaces\HomePage.xaml.g.cs

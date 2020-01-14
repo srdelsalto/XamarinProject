@@ -8,6 +8,5 @@ namespace DataBinding1
     {
         public String NombreCompleto { get; set; }
         public String Email { get; set; }
-
     }
 }

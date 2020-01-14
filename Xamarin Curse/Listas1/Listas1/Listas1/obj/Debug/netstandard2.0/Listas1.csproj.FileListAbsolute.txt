@@ -1,0 +1,13 @@
+C:\Xamarin Curse\Listas1\Listas1\Listas1\bin\Debug\netstandard2.0\Listas1.deps.json
+C:\Xamarin Curse\Listas1\Listas1\Listas1\bin\Debug\netstandard2.0\Listas1.dll
+C:\Xamarin Curse\Listas1\Listas1\Listas1\bin\Debug\netstandard2.0\ref\Listas1.dll
+C:\Xamarin Curse\Listas1\Listas1\Listas1\bin\Debug\netstandard2.0\Listas1.pdb
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\Listas1.csprojAssemblyReference.cache
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\Listas1.AssemblyInfoInputs.cache
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\Listas1.AssemblyInfo.cs
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\Listas1.dll
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\ref\Listas1.dll
+C:\Xamarin Curse\Listas1\Listas1\Listas1\obj\Debug\netstandard2.0\Listas1.pdb
