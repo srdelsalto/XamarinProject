@@ -1,0 +1,14 @@
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\bin\Debug\netstandard2.0\SuggestionESPE.deps.json
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\bin\Debug\netstandard2.0\SuggestionESPE.dll
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\bin\Debug\netstandard2.0\ref\SuggestionESPE.dll
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\bin\Debug\netstandard2.0\SuggestionESPE.pdb
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.csprojAssemblyReference.cache
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\Interfaces\LoginPage.xaml.g.cs
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.AssemblyInfoInputs.cache
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.AssemblyInfo.cs
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.dll
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\ref\SuggestionESPE.dll
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.pdb
