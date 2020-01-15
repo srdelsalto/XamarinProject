@@ -19,16 +19,33 @@ namespace SuggestionESPE.Interfaces
         {
             InitializeComponent();
             Title = PageTitle;
+            Init();
         }
 
+        void Init()
+        {
+            BackgroundColor = Constants.BackgroundColor;
+            lblUser.TextColor = Constants.MainTextColor;
+            lblPassword.TextColor = Constants.MainTextColor;
+            ActivitySpinner.IsVisible = false;
+            LoginIcon.HeightRequest = Constants.LoginIconHeight;
+
+            txtUser.Completed += (sender, e) => txtPassword.Focus();
+            txtPassword.Completed += (sender, e) => SignInProcedure(sender, e);
+        }
         void SignInProcedure(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new SignInPage());
+        }
+
+        void LoginProcedure(object sender, EventArgs e)
         {
             LoginController LoginCont = new LoginController();
             User EspeUser = new User(txtUser.Text, txtPassword.Text);
 
             if (LoginCont.CheckInformation(EspeUser))
             {
-                DisplayAlert("-"+EspeUser.UserName+"-", "Inicio de Sesión Correcto", "OK");
+                DisplayAlert("Login", "Inicio de Sesión Correcto", "OK");
             }
             else
             {
