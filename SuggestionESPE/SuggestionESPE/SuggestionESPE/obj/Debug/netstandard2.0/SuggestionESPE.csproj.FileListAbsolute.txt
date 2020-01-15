@@ -12,3 +12,4 @@ C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj
 C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.dll
 C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\ref\SuggestionESPE.dll
 C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.pdb
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\Interfaces\SignInPage.xaml.g.cs

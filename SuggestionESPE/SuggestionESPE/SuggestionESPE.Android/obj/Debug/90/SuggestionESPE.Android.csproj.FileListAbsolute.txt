@@ -470,3 +470,5 @@ C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE.And
 C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE.Android\obj\Debug\90\res\drawable\loginicon.png
+C:\Project Advanced Programming\SuggestionESPE\SuggestionESPE\SuggestionESPE.Android\obj\Debug\90\res\drawable\signinicon.png
