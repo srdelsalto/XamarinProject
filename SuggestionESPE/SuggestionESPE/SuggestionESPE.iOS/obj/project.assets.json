@@ -1022,11 +1022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project Advanced Programming\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj",
+      "projectUniqueName": "C:\\Git Advanced Programming\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj",
       "projectName": "SuggestionESPE.iOS",
-      "projectPath": "C:\\Project Advanced Programming\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj",
+      "projectPath": "C:\\Git Advanced Programming\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Project Advanced Programming\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\obj\\",
+      "outputPath": "C:\\Git Advanced Programming\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1047,8 +1047,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Project Advanced Programming\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj": {
-              "projectPath": "C:\\Project Advanced Programming\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj"
+            "C:\\Git Advanced Programming\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj": {
+              "projectPath": "C:\\Git Advanced Programming\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj"
             }
           }
         }
