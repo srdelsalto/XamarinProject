@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "SuggestionESPE.Android.dll" comes first in this list. */
 		"SuggestionESPE.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.CurrentActivity.dll",
 		"SuggestionESPE.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",

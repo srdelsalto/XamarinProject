@@ -5743,7 +5743,7 @@ namespace SuggestionESPE.Droid
 			public const int ic_mtrl_chip_close_circle = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int LoginIcon = 2131165285;
+			public const int login_icon = 2131165285;
 			
 			// aapt resource value: 0x7F070066
 			public const int mtrl_snackbar_background = 2131165286;
@@ -5791,13 +5791,16 @@ namespace SuggestionESPE.Droid
 			public const int notify_panel_notification_icon_bg = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int SignInIcon = 2131165301;
+			public const int signin_icon = 2131165301;
 			
 			// aapt resource value: 0x7F070076
 			public const int tooltip_frame_dark = 2131165302;
 			
 			// aapt resource value: 0x7F070077
 			public const int tooltip_frame_light = 2131165303;
+			
+			// aapt resource value: 0x7F070078
+			public const int user = 2131165304;
 			
 			static Drawable()
 			{
