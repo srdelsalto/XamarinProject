@@ -573,11 +573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project Advanced Programming\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj",
+      "projectUniqueName": "C:\\Git Advanced Programming\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj",
       "projectName": "SuggestionESPE",
-      "projectPath": "C:\\Project Advanced Programming\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj",
+      "projectPath": "C:\\Git Advanced Programming\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Project Advanced Programming\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\obj\\",
+      "outputPath": "C:\\Git Advanced Programming\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -633,7 +633,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
