@@ -31,7 +31,7 @@ namespace SuggestionESPE.Interfaces
             LoginIcon.HeightRequest = Constants.LoginIconHeight;
 
             txtUser.Completed += (sender, e) => txtPassword.Focus();
-            txtPassword.Completed += (sender, e) => SignInProcedure(sender, e);
+            txtPassword.Completed += (sender, e) => LoginProcedure(sender, e);
         }
         void SignInProcedure(object sender, EventArgs e)
         {
@@ -46,6 +46,7 @@ namespace SuggestionESPE.Interfaces
             if (LoginCont.CheckInformation(EspeUser))
             {
                 DisplayAlert("Login", "Inicio de Sesión Correcto", "OK");
+                Navigation.PushAsync(new MenuPage());
             }
             else
             {

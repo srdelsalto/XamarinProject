@@ -10,7 +10,7 @@ namespace SuggestionESPE.Controllers
     {
         public bool CheckInformation(User EspeUser)
         {
-            if(EspeUser.UserName == null)
+            if(EspeUser.UserName == "srdel" && EspeUser.UserPass=="santyr5442")
             {
                 return true;
             }

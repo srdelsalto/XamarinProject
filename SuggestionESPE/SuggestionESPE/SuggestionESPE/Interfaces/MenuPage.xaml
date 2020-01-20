@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SuggestionESPE.Interfaces.MenuPage">
+    <ContentPage.Content>
+        <StackLayout x:Name="MasterStackLayout" VerticalOptions="Center" HorizontalOptions="Center" Padding="10" Margin="20,35,20,20">
+            <!--IMAGE AND DATA ABOUT USER-->
+            <ListView x:Name="ListImageAndData" ItemsSource="{Binding Students}"
+              HasUnevenRows="true" IsEnabled="False">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid Padding="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="*" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Image Grid.RowSpan="2"
+                                           Source="user.png"
+                                           Aspect="AspectFill"
+                                           HeightRequest="60"
+                                           WidthRequest="60" />
+                                    <Label x:Name="lblCompleteName" Grid.Column="1"
+                                           Text="{Binding CompleteName}"
+                                           FontAttributes="Bold" TextColor="Black"/>
+                                    <Label x:Name="lblCI" Grid.Row="1"
+                                                Grid.Column="1"
+                                                Text="{Binding CI}"
+                                                FontAttributes="Bold" TextColor="Black"/>
+                                    <Label x:Name="lblId" Grid.Row="2"
+                                                Grid.Column="1"
+                                                Text="{Binding UserESPE.Id}"
+                                                FontAttributes="Bold" TextColor="Black"/>
+                                    <Label x:Name="lblUser" Grid.Row="3"
+                                                Grid.Column="1"
+                                                Text="{Binding UserESPE.UserName}" TextColor="Black"
+                                                VerticalOptions="End" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+             </ListView>
+            
+            <!--BUTTONS-->
+            <StackLayout x:Name="StackButtons" VerticalOptions="Center" HorizontalOptions="Center">
+                <Button x:Name="btnNewPublication" Text="Nueva Pulicación" FontSize="Large" CornerRadius="20"/>
+                <Button x:Name="btnNewSuggestion" Text="Nueva Recomendación" FontSize="Large" CornerRadius="20"/>
+                <Button x:Name="btnExit" Text="Salir" FontSize="Large" CornerRadius="20"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

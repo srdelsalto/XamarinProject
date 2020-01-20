@@ -6,36 +6,40 @@
              mc:Ignorable="d"
              x:Class="SuggestionESPE.Interfaces.SignInPage" Title="Registro de Datos">
     <ContentPage.Content>
-        <StackLayout x:Name="MasterLayout">
-            <!--Logo-->
-            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
-                <Image x:Name="SignInIcon" Source="SignInIcon.png" Margin="0,80,0,0"/>
-            </StackLayout>
-            <!--Data Entries-->
-            <StackLayout x:Name="SignInEntriesStack" VerticalOptions="StartAndExpand">
-                <!--Design-->
-                <StackLayout.Padding>
-                    <OnIdiom x:TypeArguments="Thickness" Phone="40,0,40,0" Tablet="140,150,140,0"></OnIdiom>
-                </StackLayout.Padding>
-                <!--Entries-->
-                <!--ID ESPE-->
-                <Label x:Name="lblIdEspe" Text="ID Espe" FontSize="Medium"/>
-                <Entry x:Name="txtIdEspe" Placeholder="L00368482" FontSize="Medium"/>
-                <!--CI-->
-                <Label x:Name="lblCI" Text="Cédula" FontSize="Medium"/>
-                <Entry x:Name="txtCI" Placeholder="0200670903" FontSize="Medium"/>
-                <!--Name-->
-                <Label x:Name="lblName" Text="Nombre" FontSize="Medium"/>
-                <Entry x:Name="txtName" Placeholder="Santiago" FontSize="Medium"/>
-                <!--Last Name-->
-                <Label x:Name="lblLastName" Text="Apellido" FontSize="Medium"/>
-                
-                <!--User ESPE-->
-                <Label x:Name="lblUserEspe" Text="Usuario ESPE" FontSize="Medium"/>
-                <!--Password ESPE-->
-                <Label x:Name="lblPasswordEspe" Text="Password" FontSize="Medium"/>
-            </StackLayout>
+        <ScrollView x:Name="MasterScroll">
+            <StackLayout x:Name="MasterLayout">
+                <!--Logo-->
+                <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                    <Image x:Name="SignInIcon" Source="signin_icon.png" Margin="0,20,0,0" Aspect="AspectFit"/>
+                </StackLayout>
+                <!--Data Entries-->
+                <StackLayout x:Name="SignInEntriesStack" VerticalOptions="StartAndExpand">
+                    <!--Design-->
+                    <StackLayout.Padding>
+                        <OnIdiom x:TypeArguments="Thickness" Phone="40,0,40,0" Tablet="140,150,140,0"></OnIdiom>
+                    </StackLayout.Padding>
+                    <!--Entries-->
+                    <!--ID ESPE-->
+                    <Label x:Name="lblIdEspe" Text="ID Espe" FontSize="Medium"/>
+                    <Entry x:Name="txtIdEspe" Placeholder="L00368482" FontSize="Medium"/>
+                    <!--CI-->
+                    <Label x:Name="lblCI" Text="Cédula" FontSize="Medium"/>
+                    <Entry x:Name="txtCI" Placeholder="0200670903" FontSize="Medium"/>
+                    <!--Name-->
+                    <Label x:Name="lblName" Text="Nombre" FontSize="Medium"/>
+                    <Entry x:Name="txtName" Placeholder="Santiago" FontSize="Medium"/>
+                    <!--Last Name-->
+                    <Label x:Name="lblLastName" Text="Apellido" FontSize="Medium"/>
+                    <Entry x:Name="txtLastName" Placeholder="Del Salto" FontSize="Medium"/>
+                    <!--User ESPE-->
+                    <Label x:Name="lblUserEspe" Text="Usuario ESPE" FontSize="Medium"/>
+                    <Entry x:Name="txtUserEspe" Placeholder="srdel" FontSize="Medium"/>
+                    <!--Password ESPE-->
+                    <Label x:Name="lblPasswordEspe" Text="Password" FontSize="Medium"/>
+                    <Entry x:Name="txtPassEspe" Placeholder="********" FontSize="Medium" IsPassword="True"/>
+                </StackLayout>
 
             </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

@@ -9,7 +9,7 @@
         <StackLayout x:Name="MasterLayout">
             <!--Logo-->
             <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
-                <Image x:Name="LoginIcon" Source="LoginIcon.png" Margin="0,80,0,0"/>
+                <Image x:Name="LoginIcon" Source="login_icon.png" Margin="0,80,0,0"/>
             </StackLayout>
             <!--Entries (Labels, Entrys, Buttons)-->
             <StackLayout x:Name="LoginEntriesStack" VerticalOptions="StartAndExpand">
@@ -24,7 +24,7 @@
                 <Entry x:Name="txtUser" Placeholder="[Ej: rarobayo]" FontSize="Medium"/>
                 <!--Password-->
                 <Label x:Name="lblPassword" Text="Contraseña ESPE" FontSize="Medium"/>
-                <Entry x:Name="txtPassword" Placeholder="[Ej: Password12]" FontSize="Medium"/>
+                <Entry x:Name="txtPassword" Placeholder="[Ej: Password12]" FontSize="Medium" IsPassword="True"/>
                 <!--Login Button-->
                 <Button x:Name="btnLogin" Text="INGRESAR" FontSize="Large" Clicked="LoginProcedure" CornerRadius="20"/>
                 <!--Register Button and Message-->
