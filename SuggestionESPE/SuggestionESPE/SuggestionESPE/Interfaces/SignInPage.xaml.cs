@@ -7,7 +7,6 @@ using SuggestionESPE.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using SuggestionESPE.Controllers;
-using Android.Views;
 using SuggestionESPE.Event;
 
 namespace SuggestionESPE.Interfaces

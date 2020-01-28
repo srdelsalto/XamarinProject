@@ -11,6 +11,17 @@ const Publication = function(publication) {
     this.lepub_complaint = publication.lepub_complaint;
 };
 
+Publication.createPublication - function (newPublication, result) {
+    sql.query("INSERT INTO lepub_publication set ?", newPublication, function (err, res) {
+        if (err) {
+            console.log("error: ", err);
+        } else {
+            console.log(res.insertId);
+            result(null, res.insertId);
+        }
+    });
+};
+
 Publication.getAllPublication = function (result) {
     sql.query("SELECT * FROM lepub_publication", function (err, res) {
       if (err) {

@@ -33,3 +33,19 @@ C:\Git Advanced Programming\XamarinProject\SuggestionESPE\SuggestionESPE\Suggest
 C:\Git Advanced Programming\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.dll
 C:\Git Advanced Programming\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\ref\SuggestionESPE.dll
 C:\Git Advanced Programming\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.pdb
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.csprojAssemblyReference.cache
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\Interfaces\LoginPage.xaml.g.cs
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\Interfaces\MenuPage.xaml.g.cs
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\Interfaces\SignInPage.xaml.g.cs
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.AssemblyInfoInputs.cache
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.AssemblyInfo.cs
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.dll
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\ref\SuggestionESPE.dll
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\SuggestionESPE.pdb
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\bin\Debug\netstandard2.0\SuggestionESPE.deps.json
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\bin\Debug\netstandard2.0\SuggestionESPE.dll
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\bin\Debug\netstandard2.0\ref\SuggestionESPE.dll
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\bin\Debug\netstandard2.0\SuggestionESPE.pdb
+C:\Users\santy\Desktop\Github\XamarinProject\SuggestionESPE\SuggestionESPE\SuggestionESPE\obj\Debug\netstandard2.0\XamlC.stamp
