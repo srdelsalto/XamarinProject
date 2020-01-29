@@ -24,7 +24,6 @@ D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE\obj\Debug\netstandard2.0\Views\SignUpPage.xaml.g.cs
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE\obj\Debug\netstandard2.0\SuggestionPortalESPE.AssemblyInfoInputs.cache
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE\obj\Debug\netstandard2.0\SuggestionPortalESPE.AssemblyInfo.cs
-D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE\obj\Debug\netstandard2.0\XamlC.stamp
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE\obj\Debug\netstandard2.0\SuggestionPortalESPE.dll
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE\obj\Debug\netstandard2.0\ref\SuggestionPortalESPE.dll
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE\obj\Debug\netstandard2.0\SuggestionPortalESPE.pdb
