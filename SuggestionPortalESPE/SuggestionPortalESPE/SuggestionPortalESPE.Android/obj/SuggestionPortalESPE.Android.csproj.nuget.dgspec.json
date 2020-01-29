@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj": {}
+    "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj": {
+    "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj",
+        "projectUniqueName": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj",
         "projectName": "SuggestionPortalESPE.Android",
-        "projectPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj",
+        "projectPath": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj",
         "packagesPath": "C:\\Users\\santy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\obj\\",
+        "outputPath": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj": {
-                "projectPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj"
+              "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj": {
+                "projectPath": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj": {
+    "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj",
+        "projectUniqueName": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj",
         "projectName": "SuggestionPortalESPE",
-        "projectPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj",
+        "projectPath": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj",
         "packagesPath": "C:\\Users\\santy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\obj\\",
+        "outputPath": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

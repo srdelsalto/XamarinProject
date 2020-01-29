@@ -1938,11 +1938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj",
+      "projectUniqueName": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj",
       "projectName": "SuggestionPortalESPE.Android",
-      "projectPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj",
+      "projectPath": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\SuggestionPortalESPE.Android.csproj",
       "packagesPath": "C:\\Users\\santy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\obj\\",
+      "outputPath": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj": {
-              "projectPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj"
+            "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj": {
+              "projectPath": "D:\\XamarinProject\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE\\SuggestionPortalESPE.csproj"
             }
           }
         }

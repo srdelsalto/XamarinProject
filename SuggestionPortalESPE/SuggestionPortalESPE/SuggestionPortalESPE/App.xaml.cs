@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using SuggestionPortalESPE.Views;
 
 namespace SuggestionPortalESPE
 {
@@ -10,7 +11,7 @@ namespace SuggestionPortalESPE
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new LoginPage());
         }
 
         protected override void OnStart()

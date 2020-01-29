@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj": {}
+    "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj": {
+    "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj",
+        "projectUniqueName": "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj",
         "projectName": "SuggestionESPE.iOS",
-        "projectPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj",
+        "projectPath": "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\SuggestionESPE.iOS.csproj",
         "packagesPath": "C:\\Users\\santy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\obj\\",
+        "outputPath": "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj": {
-                "projectPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj"
+              "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj": {
+                "projectPath": "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj": {
+    "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj",
+        "projectUniqueName": "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj",
         "projectName": "SuggestionESPE",
-        "projectPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj",
+        "projectPath": "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE.csproj",
         "packagesPath": "C:\\Users\\santy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santy\\Desktop\\Github\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\obj\\",
+        "outputPath": "D:\\XamarinProject\\SuggestionESPE\\SuggestionESPE\\SuggestionESPE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

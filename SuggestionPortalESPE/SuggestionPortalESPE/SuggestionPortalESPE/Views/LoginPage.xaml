@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SuggestionPortalESPE.Views.LoginPage">
+    <ContentPage.Content>
+        <StackLayout x:Name="MasterLayout">
+            <!--Logo-->
+            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Image x:Name="LoginIcon" Source="login_icon.png" Margin="0,80,0,0"/>
+            </StackLayout>
+            <!--Entries (Labels, Entrys, Buttons)-->
+            <StackLayout x:Name="LoginEntriesStack" VerticalOptions="StartAndExpand">
+                <!--Design-->
+                <StackLayout.Padding>
+                    <OnIdiom x:TypeArguments="Thickness" Phone="40,0,40,0" Tablet="140,150,140,0"></OnIdiom>
+                </StackLayout.Padding>
+                <!--Activity Indicator-->
+                <ActivityIndicator x:Name="ActivitySpinner" Color="Red" IsRunning="True"/>
+                <!--User-->
+                <Label x:Name="lblUser" Text="Usuario ESPE" FontSize="Medium"/>
+                <Entry x:Name="txtUser" Placeholder="[Ej: rarobayo]" FontSize="Medium"/>
+                <!--Password-->
+                <Label x:Name="lblPassword" Text="Contraseña ESPE" FontSize="Medium"/>
+                <Entry x:Name="txtPassword" Placeholder="[Ej: Password12]" FontSize="Medium" IsPassword="True"/>
+                <!--Login Button-->
+                <Button x:Name="btnLogin" Text="INGRESAR" FontSize="Large" Clicked="SignInProcedure" CornerRadius="20"/>
+                <!--Register Button and Message-->
+                <Label x:Name="txtRegisterTop" FontSize="Medium" TextColor="White" HorizontalOptions="CenterAndExpand" Text="¿No tienes cuenta?" />
+                <Label x:Name="txtRegisterBottom" FontSize="Medium" TextColor="White" HorizontalOptions="Center" Text="Regístrate ahora" />
+                <Button x:Name="btnRegister" Text="REGISTRARSE" FontSize="Large" Clicked="SignUpProcedure" CornerRadius="20"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
