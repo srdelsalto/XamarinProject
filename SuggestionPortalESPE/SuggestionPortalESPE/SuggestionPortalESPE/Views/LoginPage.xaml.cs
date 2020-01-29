@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SuggestionPortalESPE.Models;
+using SuggestionPortalESPE.API;
+using SuggestionPortalESPE.Controller;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -39,20 +41,20 @@ namespace SuggestionPortalESPE.Views
 
         void SignInProcedure(object sender, EventArgs e)
         {
-            
-            User EspeUser = new User(txtUser.Text, txtPassword.Text);
+            LoginController cont = new LoginController();
+            User stu = new User(txtUser.Text, txtPassword.Text);
+            StudentModel estudiante = cont.CheckInformation(stu);
 
-            if (EspeUser.CheckInformation())
+            if (estudiante!=null)
             {
                 DisplayAlert("Login", "Inicio de Sesión Correcto", "OK");
-                //Navigation.PushAsync(new MenuPage());
+                Navigation.PushAsync(new MenuPage());
             }
             else
             {
                 DisplayAlert("Login", "Inicio de Sesión Incorrecto", "OK");
-                RestartData();
             }
-            EspeUser = null;
+            RestartData();
         }
 
         void RestartData()

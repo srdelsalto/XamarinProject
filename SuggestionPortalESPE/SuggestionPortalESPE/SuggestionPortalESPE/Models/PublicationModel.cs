@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SuggestionPortalESPE.Models
 {
-    public class PublicationModel
+    public class Publication
     {
         public int Lepub_Id { get; set; }
         public int Lepub_Anonymous { get; set; }

@@ -635,3 +635,6 @@ D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE.Android\obj\Debug\90\res\drawable\signup_icon.png
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE.Android\obj\Debug\90\res\drawable\user.png
 D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE.Android\obj\Debug\90\res\drawable\login_icon.png
+D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE.Android\obj\Debug\90\android\assets\Microsoft.CSharp.dll
+D:\XamarinProject\SuggestionPortalESPE\SuggestionPortalESPE\SuggestionPortalESPE.Android\obj\Debug\90\android\assets\Microsoft.CSharp.pdb

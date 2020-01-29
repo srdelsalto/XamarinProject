@@ -6,23 +6,13 @@ namespace SuggestionPortalESPE.Models
 {
     public class User
     {
-        public String Id { get; set; }
-        public String UserName { get; set; }
-        public String UserPass { get; set; }
 
-        public User() { }
-        public User(String name, String pass)
+        public string User_Name { get; set; }
+        public string User_Pass { get; set; }
+        public User(string text1, string text2)
         {
-            UserName = name;
-            UserPass = pass;
-        }
-
-        public bool CheckInformation()
-        {
-            if (this.UserName != null && this.UserPass != null)
-                return true;
-            else
-                return false;
+            this.User_Name = text1;
+            this.User_Pass = text2;
         }
     }
 }
