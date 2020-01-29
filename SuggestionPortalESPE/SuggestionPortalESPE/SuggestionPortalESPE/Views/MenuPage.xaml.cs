@@ -12,30 +12,28 @@ namespace SuggestionPortalESPE.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MenuPage : ContentPage
     {
-        public IList<StudentModel> Students { get; private set; }
+        StudentModel Student = new StudentModel();
         public MenuPage()
         {
             InitializeComponent();
+            Init();
         }
 
         public MenuPage(StudentModel student)
         {
-            Students = new List<StudentModel>();
-
-            Students.Add(student);
-            BindingContext = Students;
-
             InitializeComponent();
+            Student = student;
+            Init();
         }
 
         void Init()
         {
+            
             BackgroundColor = Constants.BackgroundColor;
-        }
-
-        void ExitProcedure()
-        {
-
+            this.NameLabel.Text = Student.CompleteName;
+            this.CILabel.Text = Student.CI;
+            this.IdEspeLabel.Text = Student.Id_Espe;
+            this.UserNameLabel.Text = Student.User_Name;
         }
     }
 }

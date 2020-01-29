@@ -48,7 +48,7 @@ namespace SuggestionPortalESPE.Views
             if (estudiante!=null)
             {
                 DisplayAlert("Login", "Inicio de Sesión Correcto", "OK");
-                Navigation.PushAsync(new MenuPage());
+                Navigation.PushAsync(new MenuPage(estudiante));
             }
             else
             {
