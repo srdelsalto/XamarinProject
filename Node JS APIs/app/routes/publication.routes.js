@@ -1,6 +1,7 @@
 module.exports = app => {
     const publication = require("../controller/publication.controller.js");
-    
+
+    app.post("/publications/", publication.create)
     // Retrieve all Publications
     app.get("/publications", publication.findAll);
   

@@ -15,8 +15,10 @@ Publication.createPublication - function (newPublication, result) {
     sql.query("INSERT INTO lepub_publication set ?", newPublication, function (err, res) {
         if (err) {
             console.log("error: ", err);
+            result(err, null);
+            return;
         } else {
-            console.log(res.insertId);
+            console.log("Created Publication: ", { id: res.insertId, ...newPublication });
             result(null, res.insertId);
         }
     });
