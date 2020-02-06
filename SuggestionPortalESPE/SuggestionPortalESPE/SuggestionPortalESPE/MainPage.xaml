@@ -11,7 +11,7 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <Label Text="{Binding User_Pass}" TextColor="Black"/>
+                        <Label Text="{Binding Lepub_Messag}" TextColor="Black"/>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>

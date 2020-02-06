@@ -17,9 +17,9 @@ namespace SuggestionPortalESPE
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
-        private const String Url = "https://192.168.100.63:3000/students/";
+        private const String Url = "http://3.135.186.13:3001/publications/";
         private readonly HttpClient client = new HttpClient();
-        private ObservableCollection<User> _publication;
+        private ObservableCollection<PublicationModel> _publication;
         public MainPage()
         {
             InitializeComponent();
@@ -28,8 +28,8 @@ namespace SuggestionPortalESPE
         protected override async void OnAppearing()
         {
             String content = await client.GetStringAsync(Url);
-            List<User> publications = JsonConvert.DeserializeObject<List<User>>(content);
-            _publication = new ObservableCollection<User>(publications);
+            List<PublicationModel> publications = JsonConvert.DeserializeObject<List<PublicationModel>>(content);
+            _publication = new ObservableCollection<PublicationModel>(publications);
             DataListView.ItemsSource = _publication;
             base.OnAppearing();
         }

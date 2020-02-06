@@ -12,15 +12,15 @@
             <!--Logo-->
             <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
                 <Image x:Name="LoginIcon" Source="user.png" Margin="0,60,0,0"/>
-                <Label x:Name="NameLabel" TextColor="Black"/>
-                <Label x:Name="CILabel" TextColor="Black"/>
-                <Label x:Name="IdEspeLabel" TextColor="Black"/>
-                <Label x:Name="UserNameLabel" TextColor="Black"/>
+                <Label x:Name="NameLabel" TextColor="Black" FontSize="Medium"/>
+                <Label x:Name="CILabel" TextColor="Black" FontSize="Medium"/>
+                <Label x:Name="IdEspeLabel" TextColor="Black" FontSize="Medium"/>
+                <Label x:Name="UserNameLabel" TextColor="Black" FontSize="Medium"/>
             </StackLayout>
             <!--BUTTONS-->
             <StackLayout x:Name="StackButtons" VerticalOptions="Center" HorizontalOptions="Center">
                 <Button x:Name="btnNewPublication" Text="Nueva Pulicación" FontSize="Large" CornerRadius="20"/>
-                <Button x:Name="btnViewPublications" Text="Ver Publicaciones" FontSize="Large" CornerRadius="20"/>
+                <Button x:Name="btnViewPublications" Text="Ver Publicaciones" FontSize="Large" CornerRadius="20" Clicked="ViewPublications"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

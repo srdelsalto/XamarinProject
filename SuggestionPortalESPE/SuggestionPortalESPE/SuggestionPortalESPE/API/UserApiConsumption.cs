@@ -14,13 +14,13 @@ namespace SuggestionPortalESPE.API
 {
     public class UserApiConsumption
     {
-        private String Url = "http://192.168.100.63:3000/students/";
+        private String Url = "http://3.135.186.13:3001/students/";
         public List<User> Users = new List<User>();
         public List<StudentModel> Students = new List<StudentModel>();
 
         public UserApiConsumption()
         {
-            this.Url = "http://192.168.100.63:3000/students/";
+            this.Url = "http://3.135.186.13:3001/students/";
             Users = new List<User>();
             Students = new List<StudentModel>();
     }

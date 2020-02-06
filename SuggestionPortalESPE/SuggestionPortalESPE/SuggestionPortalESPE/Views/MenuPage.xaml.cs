@@ -35,5 +35,10 @@ namespace SuggestionPortalESPE.Views
             this.IdEspeLabel.Text = Student.Id_Espe;
             this.UserNameLabel.Text = Student.User_Name;
         }
+
+        void ViewPublications(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new MainPage());
+        }
     }
 }
